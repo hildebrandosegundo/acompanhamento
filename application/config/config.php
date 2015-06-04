@@ -32,5 +32,5 @@ define('DB_TYPE_mysql', 'mysql');
 define('DB_HOST_mysql', '127.0.0.1');
 define('DB_NAME_mysql', 'avaliacao');
 define('DB_USER_mysql', 'root');
-define('DB_PASS_mysql', 'sasuke5051');
+define('DB_PASS_mysql', '');
 
